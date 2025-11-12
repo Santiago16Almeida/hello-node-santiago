@@ -1,0 +1,21 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node.js app for Railway & Netlify deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "railway",
+    "netlify"
+  ],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
